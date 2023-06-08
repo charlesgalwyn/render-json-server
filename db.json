@@ -80,5 +80,35 @@
       "orderDate": "3/3/22",
       "imageUrl": "prime.png"
     }
+  ],
+  "tasks": [
+    {
+      "title": "Task1",
+      "id": 1
+    },
+    {
+      "title": "Task2",
+      "id": 2
+    },
+    {
+      "title": "Task3",
+      "id": 3
+    },
+    {
+      "title": "Task4",
+      ",id": 4
+    },
+    {
+      "title": "Task5",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "dani",
+      "mobile": "123456789",
+      "password": "dani1998",
+      "id": 1
+    }
   ]
 }
